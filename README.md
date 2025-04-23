@@ -1,4 +1,4 @@
-# Ai-Code-Editor
+# Ai-Code-Iterator
 An interactive tool that uses AI to improve and iterate on Phaser.js game code. This application allows developers to input their Phaser.js code, describe desired improvements, and receive AI-enhanced code suggestions.
 
     <img alt="AI Code Iterator" src="https://via.placeholder.com/800x400?text=AI+Code+Iterator">
